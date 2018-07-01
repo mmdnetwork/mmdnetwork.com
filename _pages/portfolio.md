@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2018-07-01 07:29:17
 ---
+[supsystic-gallery id=1 position=center]
