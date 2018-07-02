@@ -13,4 +13,4 @@ We are here to help!  Please send us a message if you have a question or concer
 
 (Please allow 48 hours for a response.)
 
-[contact-form to="support@email.com" subject="Someone https://mmdnetwork.com has a question or concern."][contact-field label="Name" type="name" required="1"][contact-field label="Email" type="email" required="1"][contact-field label="Message" type="textarea"][/contact-form]
+[contact-form to="support@email.com" subject="Someone https://mmdnetwork.com has a question or concern."][contact-field label="Phone Number" type="text"][contact-field label="Email" type="email" required="1"][contact-field label="Message" type="textarea"][/contact-form]
