@@ -13,7 +13,7 @@ Not experienced in coding HTML / CSS / Javascript?  Are you interested in learn
 
 Check out this free website:
 
-<img class="size-full wp-image-214 alignleft" src="https://mmdnetwork.com/wp-content/uploads/2018/07/index-1.jpeg" alt="" width="127" height="127" />
+<a href="https://w3schools.com"><img class="size-full wp-image-214 alignleft" src="https://mmdnetwork.com/wp-content/uploads/2018/07/index-1.jpeg" alt="" width="127" height="127" /></a>
 
 <a href="https://www.w3schools.com/">W3Schools.com</a>
 
