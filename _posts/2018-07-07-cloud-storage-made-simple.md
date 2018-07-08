@@ -1,6 +1,6 @@
 ---
 ID: 223
-post_title: Cloud Storage Made Simple
+post_title: Cloud Space by MMD Network
 author: MMD Network
 post_excerpt: ""
 layout: post
@@ -9,12 +9,14 @@ permalink: >
 published: true
 post_date: 2018-07-07 23:36:28
 ---
-<h3><img class=" wp-image-224 alignleft" src="https://mmdnetwork.com/wp-content/uploads/2018/07/index-5-300x157.png" alt="" width="302" height="158" />Cloud Storage</h3>
+<h3>Cloud Space by MMD Network</h3>
+[caption id="attachment_231" align="alignleft" width="200"]<img class="size-full wp-image-231" src="https://mmdnetwork.com/wp-content/uploads/2018/07/index-6.png" alt="ownCloud Logo" width="200" height="200" /> owncloud Logo[/caption]
+
 Our Servers use the latest Open-Source ownCloud Software to store your data to the cloud!
 
-250GB for $20 / year!
+250GB for $20 annual payment.
 
-Set up an account here.
+<a href="https://mmdnetwork.com/product/cloud-storage/">Sign up for an account!</a>
 
 Login here --&gt;  <a href="https://cloud.mmdnetwork.com">cloud.mmdnetwork.com</a>
 
