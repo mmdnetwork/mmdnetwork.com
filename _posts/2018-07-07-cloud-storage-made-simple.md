@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-07-07 23:36:28
 ---
-<img class=" wp-image-224 alignleft" src="https://mmdnetwork.com/wp-content/uploads/2018/07/index-5-300x157.png" alt="" width="302" height="158" />Our Servers use the latest Open-Source ownCloud Software to store your data to the cloud!
+<h3><img class=" wp-image-224 alignleft" src="https://mmdnetwork.com/wp-content/uploads/2018/07/index-5-300x157.png" alt="" width="302" height="158" />Cloud Storage</h3>
+Our Servers use the latest Open-Source ownCloud Software to store your data to the cloud!
 
 250GB for $20 / year!
 
